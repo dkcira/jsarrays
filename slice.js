@@ -11,7 +11,7 @@ console.log(copy);
 // const nbMessages = messages.length < 5 ? messages.length : 5;
 // let messagesToShow = [];
 // for (let i = -; i < nbMessages; i++){
-// 	 messagesToShow.psh(posts[i])
+// 	 messagesToShow.push(posts[i])
 // }
 
 // // replace loop with slice
